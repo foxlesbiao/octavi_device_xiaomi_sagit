@@ -1,2 +1,8 @@
 # IR
 type ir_device, dev_type;
+
+# PERSIST
+type persist_file, file_type;
+
+# FIRMWARE
+type bt_firmware_file, file_type;
